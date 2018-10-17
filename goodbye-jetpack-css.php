@@ -3,7 +3,7 @@
 Plugin Name: Goodbye Jetpack CSS
 Plugin URI: https://github.com/OkJaybird/goodbye-jetpack-css
 Description: A Wordpress plugin to stop loading CSS included with Jetpack.
-Version: 0.1.0
+Version: 0.1.1
 Author: OkJaybird
 Author URI: https://github.com/OkJaybird
 License: GPLv3
